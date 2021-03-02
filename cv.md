@@ -40,7 +40,7 @@ I have no experience in the IT field.
 
 **Language skills**:
 * English: Good reading and translating ability.
-* Russian: Fluent.
+* Russian: Native.
 * Belarussian: Native.
 
 **Driving license**
