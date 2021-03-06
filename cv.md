@@ -50,6 +50,4 @@ I *don't* have a *driver's license*.
 
 **Hobbies**:
 
-* Reading any books 
-* Play football 
-* Listen to hard rock
+Reading any books
