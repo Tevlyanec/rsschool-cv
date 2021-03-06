@@ -16,9 +16,9 @@
 
 ## Job Objectiv
 
-I want to learn a new profession that has always interested me. 
-I have long wanted to try myself in a new field, which I have never encountered before.
-I have long wanted to try myself in a new field, which I have never encountered before.
+**I want** to learn a new profession that has always interested me. 
+**I have** long wanted to try myself in a new field, which I have never encountered before.
+**I have** long wanted to try myself in a new field, which I have never encountered before.
 
 ## Education
 
@@ -35,7 +35,8 @@ I have long wanted to try myself in a new field, which I have never encountered 
 ## Work Expirience
 
 I have no experience in the IT field.
-
+Vitebsk signaling and communication distance, electrician (2011-2020)
+LLC "PRODOM", electrician for maintenance and repair of electrical equipment (2020-present)
 ## Skills
 
 **Language skills**:
@@ -45,7 +46,7 @@ I have no experience in the IT field.
 
 **Driving license**
 
-I don't have a driver's license.
+I *don't* have a *driver's license*.
 
 **Hobbies**:
 
