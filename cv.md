@@ -45,7 +45,7 @@ I have no experience in the IT field.
 
 **Driving license**
 
-I don't have a driver's license.
+I *don't* have a *driver's license*.
 
 **Hobbies**:
 
