@@ -4,7 +4,7 @@
   
 **Name**: ***Aliaksei Balabushka***.
 
-**Adress**: 7 *Leningradskaya*, apr.11, *Brest*, 224001, *Republic of Belarus*.
+**Adress**: 7 Leningradskaya, apr.11, Brest, 224001, Republic of Belarus.
 
 **Phone number**: +375-33-677-64-23.
 
