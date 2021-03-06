@@ -41,7 +41,7 @@ LLC "PRODOM", electrician for maintenance and repair of electrical equipment (20
 
 **Language skills**:
 * English: Good reading and translating ability.
-* Russian: Native.
+* Russian: Fluent.
 * Belarussian: Native.
 
 **Driving license**
