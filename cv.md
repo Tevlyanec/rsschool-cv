@@ -35,7 +35,8 @@ I have long wanted to try myself in a new field, which I have never encountered 
 ## Work Expirience
 
 I have no experience in the IT field.
-
+Vitebsk signaling and communication distance, electrician (2011-2020)
+LLC "PRODOM", electrician for maintenance and repair of electrical equipment (2020-present)
 ## Skills
 
 **Language skills**:
