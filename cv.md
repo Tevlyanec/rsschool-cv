@@ -16,9 +16,9 @@
 
 ## Job Objectiv
 
-I want to learn a new profession that has always interested me. 
-I have long wanted to try myself in a new field, which I have never encountered before.
-I have long wanted to try myself in a new field, which I have never encountered before.
+**I want** to learn a new profession that has always interested me. 
+**I have** long wanted to try myself in a new field, which I have never encountered before.
+**I have** long wanted to try myself in a new field, which I have never encountered before.
 
 ## Education
 
